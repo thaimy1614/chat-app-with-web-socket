@@ -1,1 +1,12 @@
-spring.application.name=chatapp
+spring:
+  data:
+    mongodb:
+      username: thai
+      password: thai
+      host: localhost
+      port: 27017
+      database: chat_app
+      authentication-database: admin
+
+server:
+  port: 8088

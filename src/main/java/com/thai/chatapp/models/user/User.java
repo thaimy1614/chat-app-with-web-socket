@@ -1,4 +1,4 @@
-package com.thai.chatapp.user;
+package com.thai.chatapp.models.user;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

@@ -1,5 +1,7 @@
-package com.thai.chatapp.models.user;
+package com.thai.chatapp.services;
 
+import com.thai.chatapp.models.user.Status;
+import com.thai.chatapp.models.user.User;
 import com.thai.chatapp.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
